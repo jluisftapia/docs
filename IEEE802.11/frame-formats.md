@@ -4,13 +4,13 @@ This page are contained the formats of 802.11 frames (IEEE Std 802.11™-2016, s
 
 ## General frame format (9.2.3)
 
-![](./img/general-frame-format.png)
+![](./img/general-frame-format.PNG)
 
 Note: Address 2, Address 3, Sequence Control, Address 4, QoS Control and HT Control are optional fields. Its existence depend on Type and Subtype fields (See below).
 
 ### Frame control field (9.2.4.1)
 
-![](./img/frame-control-field.png)
+![](./img/frame-control-field.PNG)
 
 Frame Control field when `Type != 1` or `Subtype != 6` (e.i. not Control Frame Extension).
 
