@@ -1,4 +1,4 @@
-# Inructions for Setting up a workstation
+# Instructions for Setting up a workstation
 The following [User Guide](http://www.ti.com/lit/ug/swru375d/swru375d.pdf) was used to setup both workstations with CC3100Boost + EMUBoost
 
 ## Common environment
