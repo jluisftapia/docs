@@ -9,7 +9,7 @@
 ## Preparing a Kali linux Live USB bootable  
 
 - Create the Kali linux 2018 USB persistence  
-How to prepare the USB to run [Kali linux persistence mode](./kali-persistence/01_kali-persistence.md
+How to prepare the USB to run [Kali linux persistence mode](./kali-persistence/01_kali-persistence.md)
 
 ## Scanning Wi-Fi with Kali Linux
 
