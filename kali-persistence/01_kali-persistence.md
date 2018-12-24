@@ -1,6 +1,6 @@
 # Create Kali linux 2018 live USB with persistence 
 
-	- First [download the latest](https://www.kali.org/downloads/) ISO kali linux version, for this project was used `kali-linux-2018.4-amd64.iso` image.
+First [download the latest](https://www.kali.org/downloads/) ISO kali linux version, for this project was used `kali-linux-2018.4-amd64.iso` image.
 	
 	- To write the ISO files on the USB was used the [Universal USB installer](https://www.portablefreeware.com/index.php?id=1834) then was created the kali linux live using the folowing parameters:
 	![](./launch-universalUSB.PNG)
