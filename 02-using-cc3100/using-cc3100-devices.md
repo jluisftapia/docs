@@ -6,7 +6,7 @@
 |-----------|----------------------------|-------------------|
 | 11        | cc3100Boost+cc31XXEMUBoost | 54:4A:16:2B:C9:37 |
 | 15        | cc3100Boost+cc31XXEMUBoost | F4:B8:5E:04:8A:3D |
-| AP        | Asus RT-G32                | bc:ee:7b:ec:6f:18 |
+| AP        | Asus RT-G32                | BC:EE:7B:EC:6F:18 |
 
 ## Captured traffic examples
 
